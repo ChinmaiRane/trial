@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 i am chinmai rane
 gdsc umit
 trial
+=======
+i am chinmai rane
+gdsc umit
 trial
+>>>>>>> 7882ea7887e96fb7c73715fba9c064f6198884b0
+trial
+
+why would you change it??!
